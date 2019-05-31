@@ -1,13 +1,13 @@
 https://www.simpalm.com/
 # Simpalm Dialog Helper
 
-##Description
+## Description
 This Library includes multiple custom dialog which we generally use in our ongoing projects. In this library we have multiple options to make user experience more soothing.
 
 This library can reduce the extra code and the work load from project and developer respectively.
 The minimum Android version supported by this library is 4.3.
 
-## Usage:
+## Dependency:
 
 Step 1. Add it in your root build.gradle at the end of repositories:
 ``` java
@@ -24,6 +24,7 @@ dependencies {
 	        implementation 'com.github.simpalm:AndroidDialogHelper:1.0'
 	}
 ```
+## Features
 Here these are the multiple option provided by this library to the developers.
 
 1. Ok Dialog with single button: this option provide a basic dialog which contains a message and a ok button.
